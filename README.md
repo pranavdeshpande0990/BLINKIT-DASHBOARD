@@ -1,4 +1,4 @@
-🛒 Blinkit Sales Analysis Dashboard | Power BI
+#🛒 Blinkit Sales Analysis Dashboard | Power BI
 
 This project is an interactive Power BI dashboard built using Blinkit sales data to analyze business performance, customer behavior, and product trends. The dashboard provides meaningful insights through dynamic visualizations, helping users make data-driven decisions.
 
